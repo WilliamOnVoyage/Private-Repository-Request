@@ -1,4 +1,4 @@
-# Private-Repository-Request
+# Private-Repository-Summary
 **A summary of my current projects and explanation**
 
 Since my current projects contains confidential information, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
