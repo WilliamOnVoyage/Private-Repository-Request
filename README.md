@@ -1,6 +1,8 @@
 # Private-Repository-Request
 A summary of my current projects and explanation
 
+##Since my current projects contains confidential information, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
+
 Collaborative Projects
 1. Understanding workflow data with deep learning
 We use deep learning based approach (specifically Recurrent and Convolutional Neural Network) to model workflow data in real-life, and understand how activities influence the future activities and other attributes.
