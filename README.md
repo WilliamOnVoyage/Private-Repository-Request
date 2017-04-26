@@ -3,7 +3,7 @@
 
 Since my current projects contains confidential information, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
 
-**Cooperative Projects**
+## **Cooperative Projects**
 
 **1. Understanding workflow data with deep learning**
 
@@ -19,7 +19,7 @@ In this project, we analyze the workflow both by data-driven techniques and by c
 Data-driven techniques: We use trace alignment method to align activities in workflow records so that common patterns of activities are captured. The common patterns are represented by the consensus sequence in the alignment. The higher frequency of an activity in one column indicates the activity is more likely to happen in such place. Though trace alignment deals with sequential data, the original algorithm does not support the attribute of duration. We proposed a Duration-Aware Alignment of Process Traces method to handle real-life workflow data with duration. To evaluate the alignment algorithm's performance, several metrics have been proposed, a summary of these metrics and some modifications are in our Trace Alignment Evaluation Methods.
 Expert model techniques: The consistency of a workflow case and the expert model can be measured by conformance checking, which compares workflow data to a graph-based expert model and calculates the difference. The less difference indicates workflow data matches expert model more, vice versa. Though the expert model is predefined based on domain knowledge, which may be subjective and biased, the expert model based methods are necessary to guide other data-driven methods with its human labels.
 
-**Individual Projects**
+## **Individual Projects**
 
 **1. Game Performance Statistical Analysis**
 
