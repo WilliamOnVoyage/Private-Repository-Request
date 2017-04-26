@@ -13,7 +13,7 @@ We use deep learning based approach (specifically Recurrent and Convolutional Ne
 
 We use sensor data and machine learning algorithm to recognize real-life activities, and then perform classification and prediction on other attributes of the activities. E.g., the activities' execution forms the process, and we would like to know what is the current progress of process from the activities. We proposed a new system of Process Progress Estimation and Phase Detection to detect current phase and progress of the whole process. The estimation can predict the time left for the process based on observed activities and statistical distribution of activities/phases duration.
 
-**3. Process Mining and Analysis **
+**3. Process Mining and Analysis**
 
 In this project, we analyze the workflow both by data-driven techniques and by comparison to the expert model. 
 Data-driven techniques: We use trace alignment method to align activities in workflow records so that common patterns of activities are captured. The common patterns are represented by the consensus sequence in the alignment. The higher frequency of an activity in one column indicates the activity is more likely to happen in such place. Though trace alignment deals with sequential data, the original algorithm does not support the attribute of duration. We proposed a Duration-Aware Alignment of Process Traces method to handle real-life workflow data with duration. To evaluate the alignment algorithm's performance, several metrics have been proposed, a summary of these metrics and some modifications are in our Trace Alignment Evaluation Methods.
