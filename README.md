@@ -5,7 +5,7 @@ Since my current projects contains confidential information, I cannot share them
 
 ## **Cooperative Projects**
 
-**1. Understanding workflow data with deep learning**
+**1. Understanding workflow data with deep learning** ![Build Status](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) 
 
 We use deep learning based approach (specifically Recurrent and Convolutional Neural Network) to model workflow data in real-life, and understand how activities influence the future activities and other attributes.
 
