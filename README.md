@@ -31,7 +31,7 @@ Use deep learning method to analyze players' performance in an MMOTPS game World
 Built modeling system based on Generative Adversarial Network and Reinforcement Learning methods, which models the adversarial procedure in game and calculates real-time prediction of the wining probability of both sides.
 
 **2. Stock/Bioinformatics Data Analysis**  
-![Build Status](https://travis-ci.com/WilliamOnVoyage/XDBIO_Master.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) [![JavaVersion](https://img.shields.io/badge/java-8.0-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+![Build Status](https://travis-ci.com/WilliamOnVoyage/XDBIO_Master.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) [![JavaVersion](https://img.shields.io/badge/java-8.0-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [![Code Health](https://landscape.io/github/WilliamOnVoyage/XDBIO_Master/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/XDBIO_Master/master)
 
 Use machine learning and other basic statistical methods to analyze stock prices and bioinformatics data. The algorithms are developed based on Weka library in Java, and the software GUI is built on Java.Swingx.
 Applied auto sampling method on sensor data with statistical range from historical sample data, replaced human sampling procedure.
