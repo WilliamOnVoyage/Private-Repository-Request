@@ -1,12 +1,12 @@
 # Private-Repository-Summary
 **A summary of my current projects and explanation**
 
-Since my current projects contains confidential information, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
+Since my current projects contain confidential data and its corresponding model structure, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
 
 ## **Cooperative Projects**
 
 **1. Understanding workflow data with deep learning**  
-![Build Status](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) ![Pythonversion](https://img.shields.io/badge/python-3.5-blue.svg)  [![Code Health](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master)
+![Build Status](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) [![Pythonversion](https://img.shields.io/badge/winpython-3.5.2-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![Code Health](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master)
 
 We use deep learning based approach (specifically Recurrent and Convolutional Neural Network) to model workflow data in real-life, and understand how activities influence the future activities and other attributes.
 
@@ -23,13 +23,13 @@ Expert model techniques: The consistency of a workflow case and the expert model
 ## **Individual Projects**
 
 **1. Game Performance Statistical Analysis**  
-![Build Status](https://travis-ci.com/WilliamOnVoyage/WOWS_stats.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) ![Pythonversion](https://img.shields.io/badge/python-3.5-blue.svg) [![Code Health](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master)
+![Build Status](https://travis-ci.com/WilliamOnVoyage/WOWS_stats.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) [![Pythonversion](https://img.shields.io/badge/winpython-3.5.2-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![Code Health](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master)
 
 Use deep learning method to analyze players' performance in an MMOTPS game World of Warships. Data acquired using public API provided by Wargaming.
 Built modeling system based on Generative Adversarial Network and Reinforcement Learning methods, which models the adversarial procedure in game and calculates real-time prediction of the wining probability of both sides.
 
 **2. Stock/Bioinformatics Data Analysis**  
-![Build Status](https://travis-ci.com/WilliamOnVoyage/XDBIO_Master.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) ![JavaVersion](https://img.shields.io/badge/java-1.8-blue.svg)
+![Build Status](https://travis-ci.com/WilliamOnVoyage/XDBIO_Master.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) [![JavaVersion](https://img.shields.io/badge/java-8.0-blue.svg)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 Use machine learning and other basic statistical methods to analyze stock prices and bioinformatics data. The algorithms are developed based on Weka library in Java, and the software GUI is built on Java.Swingx.
 Applied auto sampling method on sensor data with statistical range from historical sample data, replaced human sampling procedure.
