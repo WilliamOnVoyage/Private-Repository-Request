@@ -4,7 +4,7 @@
 Since my current projects contain confidential data and its corresponding model structure, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
 
 ## **Cooperative Projects**
-**1. Understanding workflow data with deep learning**
+**1. Understanding workflow data with deep learning**  
 [![Build Status](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master)](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF) [![Pythonversion](https://img.shields.io/badge/winpython-3.5.2-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![Code Health](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master)
 
 We use deep learning based approach (specifically CNN and LSTM) to model workflow data in real-life, and understand how activities influence the future activities and other attributes.
