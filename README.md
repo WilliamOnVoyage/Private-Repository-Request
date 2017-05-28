@@ -5,7 +5,7 @@ Since my current projects contains confidential information, I cannot share them
 
 ## **Cooperative Projects**
 
-**1. Understanding workflow data with deep learning**
+**1. Understanding workflow data with deep learning**  
 ![Build Status](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) ![Pythonversion](https://img.shields.io/badge/python-3.5-blue.svg)  [![Code Health](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master)
 
 We use deep learning based approach (specifically Recurrent and Convolutional Neural Network) to model workflow data in real-life, and understand how activities influence the future activities and other attributes.
@@ -22,13 +22,13 @@ Expert model techniques: The consistency of a workflow case and the expert model
 
 ## **Individual Projects**
 
-**1. Game Performance Statistical Analysis**
+**1. Game Performance Statistical Analysis**  
 ![Build Status](https://travis-ci.com/WilliamOnVoyage/WOWS_stats.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) ![Pythonversion](https://img.shields.io/badge/python-3.5-blue.svg) [![Code Health](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master)
 
 Use deep learning method to analyze players' performance in an MMOTPS game World of Warships. Data acquired using public API provided by Wargaming.
 Built modeling system based on Generative Adversarial Network and Reinforcement Learning methods, which models the adversarial procedure in game and calculates real-time prediction of the wining probability of both sides.
 
-**2. Stock/Bioinformatics Data Analysis**
+**2. Stock/Bioinformatics Data Analysis**  
 ![Build Status](https://travis-ci.com/WilliamOnVoyage/XDBIO_Master.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master) ![JavaVersion](https://img.shields.io/badge/java-1.8-blue.svg)
 
 Use machine learning and other basic statistical methods to analyze stock prices and bioinformatics data. The algorithms are developed based on Weka library in Java, and the software GUI is built on Java.Swingx.
