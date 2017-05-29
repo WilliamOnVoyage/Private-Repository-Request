@@ -25,7 +25,6 @@ Data-driven techniques: We use trace alignment method to align activities in wor
 Expert model techniques: The consistency of a workflow case and the expert model can be measured by conformance checking, which compares workflow data to a graph-based expert model and calculates the difference. The less difference indicates workflow data matches expert model more, vice versa. Though the expert model is predefined based on domain knowledge, which may be subjective and biased, the expert model based methods are necessary to guide other data-driven methods with its human labels.
 
 ## Individual Projects
----------------------------
 **1. Game Performance Statistical Analysis**  
 [![Build Status](https://travis-ci.com/WilliamOnVoyage/WOWS_stats.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master)](https://travis-ci.com/WilliamOnVoyage/WOWS_stats) [![Pythonversion](https://img.shields.io/badge/winpython-3.5.2-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![Code Health](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master)
 
