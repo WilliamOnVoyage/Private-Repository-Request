@@ -30,7 +30,7 @@ Expert model techniques: The consistency of a workflow case and the expert model
 Individual Projects
 ---
 
-### 1. Game Performance Statistical Analysis  
+### [1. Game Performance Statistical Analysis](https://williamonvoyage.github.io/WOWS_stats/#world-of-warships-api-request-and-database)  
 [![Build Status](https://travis-ci.com/WilliamOnVoyage/WOWS_stats.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master)](https://travis-ci.com/WilliamOnVoyage/WOWS_stats) [![Pythonversion](https://img.shields.io/badge/winpython-3.5.2-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![database](https://img.shields.io/badge/mysql-5.5-orange.svg)](https://dev.mysql.com/downloads/windows/installer/5.5.html) [![Code Health](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/WOWS_stats/master)
 
 Use deep learning method to analyze players' performance in an MMOTPS game World of Warships. Data acquired using public API provided by Wargaming. Built modeling system based on Generative Adversarial Network and Reinforcement Learning methods, which models the adversarial procedure in game and calculates real-time prediction of the wining probability of both sides.
