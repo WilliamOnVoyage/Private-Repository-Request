@@ -5,6 +5,8 @@ Private-Repository-Summary
 
 Since my current projects contain confidential data and its corresponding model structure, I cannot share them publicly. Yet I provide a list of each project's purpose, methods and techniques used, if you find anything interesting, please contact me for further discussion and collaboration.
 
+More detailed theoretical explanation on [my projects website](https://sites.google.com/view/moliangzh/projects)
+
 Cooperative Projects
 ---
 ### 1. Understanding workflow data with deep learning 
