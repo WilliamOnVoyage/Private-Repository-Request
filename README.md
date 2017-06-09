@@ -8,7 +8,6 @@ Since my current projects contain confidential data and its corresponding model 
 More detailed theoretical explanation on [my projects website](https://sites.google.com/view/moliangzh/projects)
 
 ## Individual Projects
----
 
 ### [1. Game Performance Statistical Analysis](https://williamonvoyage.github.io/World-of-Warships-Stats-Analysis/)  
 [![Build Status](https://travis-ci.org/WilliamOnVoyage/World-of-Warships-Stats-Analysis.svg?branch=master)](https://travis-ci.org/WilliamOnVoyage/World-of-Warships-Stats-Analysis) [![Pythonversion](https://img.shields.io/badge/python-3.5-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![database](https://img.shields.io/badge/mysql-5.5-orange.svg)](https://dev.mysql.com/downloads/windows/installer/5.5.html) [![Test Coverage](https://codeclimate.com/github/WilliamOnVoyage/World-of-Warships-Stats-Analysis/badges/coverage.svg)](https://codeclimate.com/github/WilliamOnVoyage/World-of-Warships-Stats-Analysis/coverage) [![Code Health](https://landscape.io/github/WilliamOnVoyage/World-of-Warships-Stats-Analysis/master/landscape.svg?style=flat)](https://landscape.io/github/WilliamOnVoyage/World-of-Warships-Stats-Analysis/master)
@@ -24,7 +23,6 @@ Use machine learning and other basic statistical methods to analyze stock prices
 Applied auto sampling method on sensor data with statistical range from historical sample data, replaced human sampling procedure.
 
 ## Cooperative Projects
----
 ### 1. Understanding workflow data with deep learning 
 [![Build Status](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF.svg?token=mAvX7VnJxpyB9MUv3mSv&branch=master)](https://travis-ci.com/WilliamOnVoyage/ActivityPrediction_TF) [![Pythonversion](https://img.shields.io/badge/python-3.5-blue.svg)](https://sourceforge.net/projects/winpython/files/WinPython_3.5/3.5.2.3/) [![Code Health](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master/landscape.svg?style=flat&badge_auth_token=d93c6fcebdf2479295bb05dc33fe44c3)](https://landscape.io/github/WilliamOnVoyage/ActivityPrediction_TF/master)
 
